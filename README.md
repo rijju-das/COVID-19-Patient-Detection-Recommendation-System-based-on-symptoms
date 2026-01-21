@@ -68,7 +68,7 @@ This project evaluates **six supervised classifiers**:
   - Accuracy
   - Precision
   - Recall
-  - F1-score (F-measure) :contentReference[oaicite:7]{index=7}
+  - F1-score (F-measure)
 
 ---
 
